@@ -11,6 +11,8 @@ Jay-Z
 trainer_path(current_trainer.id)
 # Question 5: Explain how putting this line "flash[:error] = @pokemon.errors.full_messages.to_sentence" shows error messages on your form.
 Flash stores different error messages in a dictionary and retrieves the message on an error
+
+https://github.com/JohnathanZhou/project1
 # Give us feedback on the project and decal below!
 
 # Extra credit: Link your Heroku deployed app
